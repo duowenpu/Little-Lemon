@@ -1,0 +1,11 @@
+.booking{
+    background-color:#495e57;
+    color:white;
+}
+
+.bookingForm{
+    padding: 40px;
+    display:flex;
+    justify-content: center;
+
+}
